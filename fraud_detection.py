@@ -1,5 +1,4 @@
-import utils  # noqa: F401, do not remove if using a Mac
-# add your imports BELOW this line
+import utils
 import csv
 import matplotlib.pyplot as plt
 import random
